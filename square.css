@@ -1,0 +1,11 @@
+
+.square{
+	position: absolute;
+	
+	width: 35px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+	-webkit-transition: width 2s, height 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s, height 2s;
+}
